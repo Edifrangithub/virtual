@@ -1,5 +1,4 @@
-import * as THREE from 'https://cdnjs.cloudflare.com/ajax/libs/three.js/r146/three.module.js';
-
+import * as THREE from './three.js-dev/build/three.module.js';  // Ajuste o caminho
 
 // Configuração inicial
 const scene = new THREE.Scene();
