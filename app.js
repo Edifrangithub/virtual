@@ -1,5 +1,5 @@
 import * as THREE from './three.module.js';
-import { VRButton } from './VRButton.js';
+
 // Ajuste o caminho
 
 // Configuração inicial
