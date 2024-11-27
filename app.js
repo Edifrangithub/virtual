@@ -1,4 +1,4 @@
-import * as THREE from 'three.module.js';  // Ajuste o caminho
+import * as THREE from './three.js-dev/build/three.module.js';// Ajuste o caminho
 
 // Configuração inicial
 const scene = new THREE.Scene();
